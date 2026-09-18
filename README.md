@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Olá+Bem-vindo+ao+meu+perfil!!" alt="Typing SVG" />
-  <br>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+Bem-vindo+ao+meu+perfil!!" alt="Typing SVG" />
+  </p>
   Me chamo Gervásio Lopes <br>
   💻 Analista de dados JR | Python, SQL & suporte N2 em ambiente crítico
 </h1>
