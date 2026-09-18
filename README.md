@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Olá Bem-vindo ao meu perfil!! sou o Gervásio Lopes<br>
+  👋 Olá Bem-vindo ao meu perfil!!<br>
   Me chamo Gervásio Lopes <br>
   💻 ANALISTA DE DADOS JR | PYTHON, SQL & SUPORTE N2 EM AMBIENTE CRÍTICO
 </h1>
