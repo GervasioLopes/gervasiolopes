@@ -1,14 +1,15 @@
 <h1 align="center">
-  👋 Olá, sou o Gervásio Lopes<br>
-  💻 Analista de Dados & Automação | Infraestrutura & Ambientes Críticos
+  👋 Olá Bem-vindo ao meu perfil!! sou o Gervásio Lopes<br>
+  Me chamo Gervásio Lopes <br>
+  💻 ANALISTA DE DADOS JR | PYTHON, SQL & SUPORTE N2 EM AMBIENTE CRÍTICO
 </h1>
 
 ---
 
 ### 👨‍💻 Sobre mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (SENAC SP)
+- 📚 Especialização (Curso Técnico) em Fundamentos de Probabilidade e Estatística para Ciência de Dados (USP)
 - 🎓 Graduado em Produção Audiovisual / Design de Animação (Faculdade Méliès)
-- 📚 Especialização em Fundamentos de Probabilidade e Estatística para Ciência de Dados (USP)
 - 💻 Especialista em automação de processos, tratamento de logs e construção de pipelines de dados
 - 🔧 Foco em unir a confiabilidade de ambientes de alta criticidade à inteligência analítica
 
